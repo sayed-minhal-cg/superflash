@@ -1,0 +1,5 @@
+---
+applications:
+  - name: superflash
+    random-route: false
+    memory: 256M
